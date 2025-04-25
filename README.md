@@ -25,7 +25,7 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
-# Developed by : Prem Kumar g
+# Developed by : Prem Kumar G
 # Register No: 212223230158
 
 # Load the necessary packages
