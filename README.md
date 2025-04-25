@@ -25,12 +25,12 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 
-```python
-#Developed by : ARUN KUMAR B
-#Register No: 212223230021
+# Developed by : Prem Kumar g
+# Register No: 212223230158
 
 # Load the necessary packages
 
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
